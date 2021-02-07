@@ -1,6 +1,1 @@
-Drank water at 2021-02-07 15:55:21.780269
-Drank water at 2021-02-07 15:56:41.242024
-Drank water at 2021-02-07 15:56:49.404835
-Done Eye Exercise at 2021-02-07 15:56:52.446759
-Drank water at 2021-02-07 15:56:56.888005
-Done physical exercise at 2021-02-07 15:57:08.384541
+
