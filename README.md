@@ -8,6 +8,7 @@ For downloading ``` pygame 2.0.1```, open Powershell and enter the following com
 ```bash
 pip install pygame==2.0.1
 ```
+You can directly download from [Requirements.txt](mylib/Requirements.txt)
 
 ## Usage
 You run this on the opening time of your computer and should obey the commands.
